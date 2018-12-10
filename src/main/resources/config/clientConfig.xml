@@ -1,0 +1,14 @@
+<clients>
+    <client>
+        <addr>
+            <host>101.200.37.220</host>
+            <port>8800</port>
+        </addr>
+    </client>
+    <client>
+        <addr>
+            <host>101.200.37.220</host>
+            <port>8800</port>
+        </addr>
+    </client>
+</clients>

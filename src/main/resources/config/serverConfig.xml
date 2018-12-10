@@ -1,0 +1,20 @@
+<servers>
+    <server>
+        <addr>
+            <host>101.200.37.220</host>
+            <port>8800</port>
+        </addr>
+    </server>
+    <server>
+        <addr>
+            <host>101.200.37.220</host>
+            <port>8800</port>
+        </addr>
+    </server>
+    <server>
+        <addr>
+            <host>101.200.37.220</host>
+            <port>8800</port>
+        </addr>
+    </server>
+</servers>
